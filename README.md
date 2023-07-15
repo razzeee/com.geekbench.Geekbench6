@@ -1,5 +1,7 @@
 # Geekbench6 Flatpak
 
+This is a command line only app
+
 ## Building
 
 ```
@@ -15,5 +17,3 @@ flatpak run com.geekbench.Geekbench6
 ```
 flatpak run com.geekbench.Geekbench6 --compute vulkan
 ```
-
-or just search for the installed app on your system
